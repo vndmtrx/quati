@@ -13,8 +13,8 @@
 
 Porque:
 - vive em grupo,  
-- fuça o que está mal enterrado,  
-- anda nas bordas,  
+- tem faro aguçado,  
+- guincha quando algo está errado,  
 - e protege os seus.
 
 Se não parece com um sistema de votação auditável, então não sabemos o que parece.
