@@ -1,4 +1,4 @@
-# 🧭 Código de Conduta — Quati
+# 🤝 Código de Conduta — Quati
 
 O Quati é um projeto aberto — e isso vale para o código e para as pessoas.
 

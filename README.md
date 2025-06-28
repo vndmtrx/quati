@@ -53,7 +53,7 @@ mix test
 ## 📚 Documentação complementar
 
 * 📜 [Licença (AGPLv3)](./LICENSE)
-* 🛡️ [Modelo de Ameaças (SECURITY.md)](./SECURITY.md)
+* 🔐 [Política de Segurança (SECURITY.md)](./SECURITY.md)
 * 👥 [Como contribuir (CONTRIBUTING.md)](./CONTRIBUTING.md)
 * 🤝 [Código de Conduta (CODE\_OF\_CONDUCT.md)](./CODE_OF_CONDUCT.md)
 

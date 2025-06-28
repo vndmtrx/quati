@@ -1,4 +1,4 @@
-# 🤝 Contribuindo com o Quati
+# 👥 Como contribuir com o Quati
 
 Obrigado pelo interesse em contribuir!
 
